@@ -1,0 +1,1 @@
+canvas{position:fixed;top:0;left:0}#muteButton{position:absolute;right:40px;top:40px;padding:10px;background-color:transparent;color:#fff;border:none;cursor:pointer;opacity:.7;transition:color .3s ease,opacity .3s ease}#muteButton:hover{opacity:1;color:#ddd}#muteButton i{font-size:20px}
