@@ -2,9 +2,9 @@
 An Interactive Map of the Moon's Seismic Data from the Apollo Missions. 
 
 ## Tools 
-- Frontend building tool: Vite
-- Homepage 3D Moon model: Three.js
-- Moonquake map demo: Cesium.js
+- Frontend building tool: [Vite](https://vitejs.dev/)
+- Homepage 3D Moon model: [Three.js](https://threejs.org/)
+- Moonquake map demo: [CesiumJS](https://cesium.com/platform/cesiumjs/)
 
 ## Resources
 - [SVS: CGI Moon Kit - NASA](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720)
